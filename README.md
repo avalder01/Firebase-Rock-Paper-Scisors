@@ -1,2 +1,2 @@
-# Firebase-Rock-Paper-Scisors
-Rock Paper Scissors game coded using javascript, css, and firebase
+# train-Schedu;er
+train schedule coded using javascript, bootstrap, and firebase
