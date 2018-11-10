@@ -1,2 +1,2 @@
-# train-Schedu;er
+# train-Scheduler
 train schedule coded using javascript, bootstrap, and firebase
